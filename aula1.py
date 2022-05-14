@@ -1,0 +1,5 @@
+print('hello nego di')
+nome = input('qual seu nome?')
+idade = input('qual sua idade?')
+peso = input('qual seu peso?')
+print('seu nome é',nome,'sua idade é', idade, 'anos e seu peso é', peso, 'kg.')
